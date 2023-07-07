@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/vGzYl10AFTsAAAAC/discord-banner.gif)
+[![MasterHead](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
 <h1 align="center">Hi 👋, I'm Divyanshi Singh</h1>
 <h3 align="center">Divyanshi Singh is a 3rd-year Undergrad at NIET, Greater Noida. She is a passionate hustler and a curious person who is always into innovation, gaining new experiences, and learning from them. Currently, she has been into coding and Data Science.</h3>
 <img align="right" alt="Coding" width ="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&usqp=CAU">
