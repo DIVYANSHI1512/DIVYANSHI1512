@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshi1512&show_icons=true&locale=en" alt="divyanshi1512" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi1512&" alt="divyanshi1512" /></p>### Hi there 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi1512&" alt="divyanshi1512" /></p> 
 
 <!--
 **DIVYANSHI1512/DIVYANSHI1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
